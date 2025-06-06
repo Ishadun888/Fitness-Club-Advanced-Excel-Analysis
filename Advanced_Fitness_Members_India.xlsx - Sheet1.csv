@@ -1,0 +1,36 @@
+M_ID,Full_Name,Age,Gender,Membership_Type,Start_Date,End_Date,Monthly_Fee,Attendance,City,Referred_By,Membership_Duration_Months,Referred,Total_Revenue
+M001,Anay Shanker,59,Male,Basic,05-11-2023,13-05-2024,800,25,Bengaluru,Hiran Shan,6,Yes,4800
+M002,Parinaaz Shanker,27,Male,Basic,26-02-2025,24-03-2025,800,20,Pune,Kiara Kakar,0,Yes,0
+M003,Aniruddh Batra,24,Male,Standard,22-09-2023,20-03-2024,1200,18,Hyderabad,Jhanvi Chaudhary,6,Yes,7200
+M004,Madhup Kapur,31,Female,Standard,06-07-2024,22-10-2024,1200,16,Hyderabad,Tara Swaminathan,3,Yes,3600
+M005,Rasha Kakar,19,Male,Family,26-12-2023,28-07-2024,2500,12,Bengaluru,Madhav Singh,7,Yes,17500
+M006,Ehsaan Batra,40,Male,Basic,26-01-2024,10-04-2024,800,14,Mumbai,Shray Ramakrishnan,2,Yes,1600
+M007,Zara Bains,41,Female,Basic,23-10-2024,20-01-2025,800,25,Pune,,2,No,1600
+M008,Uthkarsh Baral,43,Male,Premium,07-06-2024,28-09-2024,1800,28,Kolkata,,3,No,5400
+M009,Kashvi Char,42,Male,Basic,04-10-2024,17-10-2024,800,3,Kolkata,Nitara Comar,0,Yes,0
+M010,Dhanush Varma,37,Male,Standard,03-10-2023,20-12-2023,1200,29,Mumbai,Ranbir Karan,2,Yes,2400
+M011,Ishaan Goyal,48,Female,Standard,06-01-2024,16-06-2024,1200,13,Bengaluru,Rati Sanghvi,5,Yes,6000
+M012,Mahika Ravi,36,Male,Standard,16-08-2023,03-10-2024,1200,19,Kolkata,Ishaan Kashyap,13,Yes,15600
+M013,Purab Reddy,48,Female,Premium,21-09-2024,15-12-2024,1800,22,Kolkata,,2,No,3600
+M014,Tiya Soni,39,Male,Standard,19-05-2023,12-11-2023,1200,28,Mumbai,,5,No,6000
+M015,Zara Dugar,44,Female,Basic,11-02-2024,05-09-2024,800,8,Hyderabad,,6,No,4800
+M016,Lakshit Mander,39,Male,Family,14-02-2025,16-03-2025,2500,14,Kolkata,,1,No,2500
+M017,Neysa Krish,35,Male,Standard,07-02-2024,28-01-2025,1200,25,Hyderabad,,11,No,13200
+M018,Prerak Boase,56,Female,Family,14-10-2023,23-12-2024,2500,13,Delhi,,14,No,35000
+M019,Siya Master,27,Female,Basic,03-03-2024,07-01-2025,800,26,Mumbai,,10,No,8000
+M020,Madhup Biswas,28,Male,Family,05-05-2024,12-11-2024,2500,21,Mumbai,Tanya Bajwa,6,Yes,15000
+M021,Indrans Ratti,57,Female,Premium,08-08-2023,17-01-2025,1800,19,Mumbai,,17,No,30600
+M022,Kimaya Balay,26,Female,Premium,29-01-2024,20-11-2024,1800,5,Bengaluru,,9,No,16200
+M023,Eva Dass,48,Male,Premium,08-06-2024,12-06-2024,1800,18,Delhi,,0,No,0
+M024,Pihu Wali,25,Female,Standard,27-05-2024,14-03-2025,1200,6,Bengaluru,,9,No,10800
+M025,Tiya Rege,53,Male,Premium,26-12-2023,21-03-2024,1800,17,Mumbai,Adira Brar,2,Yes,3600
+M026,Aarav Sen,42,Female,Standard,14-02-2025,11-03-2025,1200,3,Delhi,,0,No,0
+M027,Dishani Bera,24,Male,Family,10-02-2025,10-03-2025,2500,28,Mumbai,,0,No,0
+M028,Indrans Grover,53,Male,Standard,18-11-2024,19-12-2024,1200,23,Pune,,1,No,1200
+M029,Kismat Edwin,29,Female,Family,19-04-2024,26-04-2024,2500,8,Hyderabad,,0,No,0
+M030,Taran Vyas,31,Female,Family,10-01-2025,29-03-2025,2500,23,Kolkata,Nakul Balakrishnan,2,Yes,5000
+M031,Jiya Baral,52,Female,Basic,11-06-2023,30-12-2024,800,9,Delhi,Darshit Sidhu,18,Yes,14400
+M032,Gokul Sahni,20,Male,Standard,09-04-2024,08-11-2024,1200,2,Mumbai,,7,No,8400
+M033,Prerak Lalla,22,Male,Basic,11-02-2025,24-03-2025,800,30,Mumbai,,1,No,800
+M034,Hrishita Shroff,23,Male,Premium,23-10-2024,05-03-2025,1800,23,Pune,Riya Dugal,4,Yes,7200
+M035,Oorja Sachar,27,Female,Standard,21-01-2024,26-12-2024,1200,27,Pune,,11,No,13200
